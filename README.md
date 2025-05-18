@@ -16,7 +16,7 @@ Used the Oxford-IIIT Pet dataset for semantic segmentation.
 (Add a screenshot of predicted masks here)
 
 ## 🚀 How to Run
-Open the Colab notebook [here](https://colab.research.google.com/your-link).
+Open the Colab notebook [here](https://github.com/shyaaama/imagesegmentation/blob/5f544cdcd529079f8b3aad4de24327f50dc6ff28/Imagesegmentation.ipynb).
 
 ## 🧠 Skills Used
 Python, TensorFlow, Keras, Image Segmentation, Deep Learning
