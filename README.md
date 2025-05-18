@@ -13,7 +13,7 @@ Used the Oxford-IIIT Pet dataset for semantic segmentation.
 - Trained using categorical crossentropy and Adam optimizer
 
 ## 🖼️ Sample Output
-
+https://github.com/shyaaama/imagesegmentation/blob/157348e2d4b708863ba9b4861c86c14124fda15f/screenshot.png
 
 ## 🚀 How to Run
 Open the Colab notebook [here](https://github.com/shyaaama/imagesegmentation/blob/5f544cdcd529079f8b3aad4de24327f50dc6ff28/Imagesegmentation.ipynb).
